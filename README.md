@@ -2,6 +2,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/bioimage-latency-benchmark/main?filepath=notebooks)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ome/bioimage-latency-benchmark/)
 
+
+# hola diego uwu
+
+
 # Bioimage Latency Benchmark
 
 This benchmark measures the time taken to retrieve chunks
